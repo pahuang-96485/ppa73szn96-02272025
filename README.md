@@ -51,7 +51,7 @@ This repository contains an end‑to‑end notebook that clusters short text rec
 ```
 .
 ├── Group_Project2_Clustering_Updated.ipynb
-├── data/                 # sampled records or CSV with labels A–E
+├── data/                 # For simplicity, sample data only provide 5 docs for each category
 ├── images/               # exported figures
 └── README.md
 ```
