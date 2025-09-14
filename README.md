@@ -40,7 +40,7 @@ This repository contains an end‑to‑end notebook that clusters short text rec
 
 ---
 
-## Results snapshot (replace with your actual runs)
+## Results snapshot
 
 ![Heatmap of All Evaluation Scores Across Feature Extraction & Clustering Methods](images/output.png)
 
